@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Quant strategy lab
+data/cache/
+**/results/
+deploy/target/
+
+# Rust
+target/
